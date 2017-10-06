@@ -1,0 +1,80 @@
+/*switch (priority)
+		{
+		case '1':
+			while (task != "...")
+			{
+				
+				cout << "Enter the element in queue of " << priority << " priority: ";
+				cin >> task;
+				if (task != "...")
+					q1.push(task);
+			}
+			q1.out();
+			cout << endl;
+			task = "";
+			break;
+		case '2':
+			while (task != "...")
+			{
+
+				cout << "Enter the element in queue of " << priority << " priority: ";
+				cin >> task;
+				if (task != "...")
+					q2.push(task);
+			}
+			q2.out();
+			cout << endl;
+			task = "";
+			break;
+		case '3':
+			while (task != "...")
+			{
+				cout << "Enter the element in queue of " << priority << " priority: ";
+				cin >> task;
+				if (task != "...")
+					q3.push(task);
+			}
+			q3.out();
+			cout << endl;
+			task = "";
+			break;
+		case '4':
+			while (task != "...")
+			{
+				cout << "Enter the element in queue of " << priority << " priority: ";
+				cin >> task;
+				if (task != "...")
+					q4.push(task);
+			}
+			q4.out();
+			cout << endl;
+			task = "";
+			break;
+		case '5':
+			while (task != "...")
+			{
+				cout << "Enter the element in queue of " << priority << " priority: ";
+				cin >> task;
+				if (task != "...")
+					q5.push(task);
+			}
+			q5.out();
+			cout << endl;
+			task = "";
+			break;
+		case '-1':
+			exit = "Exit";
+			cout << "Program is over" << endl;
+			break;
+		case '-2':
+			q5.out();
+			q4.out();
+			q3.out();
+			q2.out();
+			q1.out();
+			cout << endl;
+			break;
+		default:
+			cout << "Incorrect input!" << endl;
+			break;
+		}*/
